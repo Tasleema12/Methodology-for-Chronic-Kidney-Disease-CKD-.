@@ -56,5 +56,4 @@ The dataset were used from kaggle.
 - If you like this Project - Give me a Star⭐⭐
 - For more Intresting Project, Follow me in Github
 - [LinkedIN](https://linkedin.com/in/venkata-sreeram)
-#### Best regards:
-### Venkata Sreeram😊
+
